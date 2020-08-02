@@ -1,0 +1,6 @@
+C:\Users\Pramod Kumar Gupta\source\repos\Sample\Sample\bin\Debug\Sample.dll
+C:\Users\Pramod Kumar Gupta\source\repos\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Pramod Kumar Gupta\source\repos\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\Pramod Kumar Gupta\source\repos\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Kumar Gupta\source\repos\Sample\Sample\obj\Debug\Sample.dll
+C:\Users\Pramod Kumar Gupta\source\repos\Sample\Sample\obj\Debug\Sample.pdb
