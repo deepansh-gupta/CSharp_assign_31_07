@@ -148,13 +148,6 @@ namespace Sample
                 set { this.fuel = value; }
             }
 
-
-
-            public static void Main()
-            {
-
-
-            }
         }
     }
 
